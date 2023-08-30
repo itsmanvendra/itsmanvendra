@@ -1,5 +1,5 @@
 ## Hello everyone! I'm Manvendra👋
-<p><em>Front-End Web Developer, Competitive Coder and a UI UX designer
+<p><em>🚀 Passionate Frontend Developer || Problem Solver || Tech Enthusiast 🌟
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -7,12 +7,20 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs** & **MongoDB** <br />
+- 🌱 I’m proficient in **JavaScript** & **ReactJS** <br />
 
-- 💬 Ask me about **Data Structures & Algorithms, JavaScript**
+- 💬 Ask me about **Data Structures & Algorithms, JavaScript, ReactJS, NextJS**
 
 - 📫 How to reach me **imanvendra03@gmail.com**
 
+🛠️ In Action:<br />
+During my internship at BeanByte Software, I led the creation of a responsive CRM single-page app with ReactJS. By mastering Redux for state management and integrating RESTful APIs, I ensured efficient data retrieval and dynamic UI updates. Seamless navigation via React Router and performance optimizations elevated the user journey.
+
+💡 Freelance Impact:<br />
+I've also dipped my toes into the world of freelance. Crafting a dynamic web app for AAIEG, I blended ReactJS, Redux, Router, and ES6 for an engaging user experience. And yes, I take security seriously - integrating JSON Web Tokens (JWT) for bulletproof data protection.
+
+🧠 Beyond Code:<br />
+A problem solver at heart, I've conquered over 500 algorithmic challenges across platforms. I thrive in fast-paced, collaborative environments, consistently pushing myself to deliver top-notch results. Let's connect and explore how we can create meaningful solutions together.
 
 Happiest when I’m learning, building & contributing. I combine form and function to create something that looks good and performs brilliantly. I love creating sleek user interfaces & bring them to life with code.
 
