@@ -60,6 +60,7 @@ When I'm away from my screen you'll find me at the gym.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width=40 height=40 />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40 height=40 />
@@ -79,10 +80,6 @@ When I'm away from my screen you'll find me at the gym.
 
 
 ##
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanvendra&layout=compact&show_icons=true&theme=radical" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsmanvendra&theme=radical" width = "50%"  >
 
 
 ##
